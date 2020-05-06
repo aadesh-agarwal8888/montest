@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/montest/static/css/main.7490d772.chunk.css",
+    "main.js": "/montest/static/js/main.915a182f.chunk.js",
+    "main.js.map": "/montest/static/js/main.915a182f.chunk.js.map",
+    "runtime-main.js": "/montest/static/js/runtime-main.604ccb44.js",
+    "runtime-main.js.map": "/montest/static/js/runtime-main.604ccb44.js.map",
+    "static/js/2.d1aa5fff.chunk.js": "/montest/static/js/2.d1aa5fff.chunk.js",
+    "static/js/2.d1aa5fff.chunk.js.map": "/montest/static/js/2.d1aa5fff.chunk.js.map",
+    "index.html": "/montest/index.html",
+    "precache-manifest.5abaa6ec3cd5532c1e4fed3b37675c24.js": "/montest/precache-manifest.5abaa6ec3cd5532c1e4fed3b37675c24.js",
+    "service-worker.js": "/montest/service-worker.js",
+    "static/css/main.7490d772.chunk.css.map": "/montest/static/css/main.7490d772.chunk.css.map",
+    "static/js/2.d1aa5fff.chunk.js.LICENSE.txt": "/montest/static/js/2.d1aa5fff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.604ccb44.js",
+    "static/js/2.d1aa5fff.chunk.js",
+    "static/css/main.7490d772.chunk.css",
+    "static/js/main.915a182f.chunk.js"
+  ]
+}
